@@ -1,0 +1,33 @@
+EC2-->renting computer from Amazon
+Scalability:increase and decrease of instances;
+Types of instances-->GPU,Heavy computer
+Pay as u go -->pay based on your usage
+Operating System-->Windows,Linux
+Networking-->get IP address and make it as public or private
+Storage-->Dynamic Storage--
+Security-->uses security groups 
+elasticity-->quickly starts and stops
+integration--->works smootjly 
+
+
+
+About Docker
+Def-->packaging of applications in infra used for miss-communication
+container-->small weight holds applications
+Docker-image-->blueprint
+Portability-->runs in any os
+isolation-->each container runs separately
+Docker-hub-->it stores docker-images
+Docker-file---->text file with instructions it will tell building of docker-image
+integration-->docker works with CI/CD
+
+plugin-->Jenkins support pluins operations 
+
+Jenking:
+def:open-source tool automation
+CI/CD-->continuous Integration/continuos deployment
+Pipeling-->with the help of Jenking
+Trigger-->for github triggering 
+CI/CD-->continuous Integration/continuos deployment
+for upgrade-->sudo apt update && sudo -y upgrade
+
